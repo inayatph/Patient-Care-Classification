@@ -22,3 +22,6 @@ A Streamlit application is created to allow users to input their health paramete
 - 
 ![stream1](https://github.com/inayatph/Patient-Care-Classification/assets/164138014/0688725c-f8a9-4821-9806-13142c280c23)
 
+
+![stream2](https://github.com/inayatph/Patient-Care-Classification/assets/164138014/8ce8b46a-8374-4172-a3fb-c28fd8386bad)
+
