@@ -19,3 +19,6 @@ A Streamlit application is created to allow users to input their health paramete
 - Navigate to the project directory in the terminal.
 - Run the Streamlit app using the command: streamlit run your_streamlit_app_filename.py.
 
+- 
+![stream1](https://github.com/inayatph/Patient-Care-Classification/assets/164138014/0688725c-f8a9-4821-9806-13142c280c23)
+
